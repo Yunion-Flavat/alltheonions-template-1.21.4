@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.yunion.alltheonions.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
