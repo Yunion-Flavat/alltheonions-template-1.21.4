@@ -19,12 +19,6 @@ import net.yunion.alltheonions.AllTheOnions;
 
 public class ModBlocks {
 
-    /*public static Block registerBlock(String name, Function<Item.Settings, Block> factory, Item.Settings settings){
-        final RegistryKey<Item> registerKey = RegistryKey.of(RegistryKeys.ITEM, Identifier.of(AllTheOnions.MOD_ID, name));
-
-        return Items.register(registerKey, factory, settings);
-    }*/
-
     public static final Block ONION_GEM_BLOCK = registerBlock("onion_gem_block",
             new Block(AbstractBlock.Settings.create().registryKey(RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(AllTheOnions.MOD_ID, "onion_gem_block")))
                     .strength(4f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK)));
