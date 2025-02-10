@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "all_the_onions:onion_gem",
+    "S": "all_the_onions:onion_gem_cut"
+  },
+  "pattern": [
+    " S ",
+    " #S",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "all_the_onions:tuning_fork"
+  }
+}

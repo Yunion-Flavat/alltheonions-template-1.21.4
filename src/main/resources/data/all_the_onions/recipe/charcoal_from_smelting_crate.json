@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "crate",
+  "ingredient": "all_the_onions:crate",
+  "result": {
+    "id": "minecraft:charcoal"
+  }
+}
