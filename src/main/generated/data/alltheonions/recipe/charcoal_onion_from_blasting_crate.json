@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.4,
+  "group": "charcoal_onion",
+  "ingredient": "all_the_onions:crate",
+  "result": {
+    "id": "all_the_onions:charcoal_onion"
+  }
+}

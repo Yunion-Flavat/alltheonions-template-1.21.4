@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "happy=false": {
+      "model": "all_the_onions:block/face_block"
+    },
+    "happy=true": {
+      "model": "all_the_onions:block/face_block_happy"
+    }
+  }
+}

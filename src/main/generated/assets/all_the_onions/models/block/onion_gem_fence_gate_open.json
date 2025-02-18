@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fence_gate_open",
+  "textures": {
+    "texture": "all_the_onions:block/onion_gem_block"
+  }
+}

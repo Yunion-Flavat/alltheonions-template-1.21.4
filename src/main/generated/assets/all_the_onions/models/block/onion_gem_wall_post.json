@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "all_the_onions:block/onion_gem_block"
+  }
+}

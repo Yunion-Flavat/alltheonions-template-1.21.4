@@ -1,9 +1,6 @@
 package net.yunion.alltheonions.item;
 
-import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroups;
 import net.minecraft.item.Items;
 import net.minecraft.registry.RegistryKey;
 import net.minecraft.registry.RegistryKeys;
@@ -17,8 +14,11 @@ public class ModItems {
     //create items to be added to the registry
     public static final Item ONION_GEM = registerItem("onion_gem", Item::new, new Item.Settings());
     public static final Item ONION_GEM_CUT = registerItem("onion_gem_cut", Item::new, new Item.Settings());
+    public static final Item CHARCOAL_ONION = registerItem("charcoal_onion", Item::new, new Item.Settings());
 
     public static final Item TUNING_FORK = registerItem("tuning_fork", TuningForkItem::new, new Item.Settings().maxDamage(64));
+
+    public static final Item REGULAR_ONION = registerItem("regular_onion", Item::new, new Item.Settings().food(ModFoodComponents.REGULAR_ONION, ModFoodComponents.REGULAR_ONION_EFFECT));
 
 
     public static Item registerItem(String name, Function<Item.Settings, Item> factory, Item.Settings settings) {

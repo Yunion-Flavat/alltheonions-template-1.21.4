@@ -37,6 +37,8 @@ private static void itemTab(FabricItemGroupEntries entries){
     entries.add(ModItems.ONION_GEM);
     entries.add(ModItems.ONION_GEM_CUT);
     entries.add(ModItems.TUNING_FORK);
+    entries.add(ModItems.REGULAR_ONION);
+    entries.add(ModItems.CHARCOAL_ONION);
 }
 
     private static void blockTab(FabricItemGroupEntries entries) {
@@ -45,6 +47,18 @@ private static void itemTab(FabricItemGroupEntries entries){
         entries.add(ModBlocks.ONION_GEM_DEEPSLATE_ORE);
         entries.add(ModBlocks.ONION_GEM_ORE);
         entries.add(ModBlocks.TUNER_BLOCK);
+
+        entries.add(ModBlocks.ONION_GEM_STAIRS);
+        entries.add(ModBlocks.ONION_GEM_SLAB);
+        entries.add(ModBlocks.ONION_GEM_BUTTON);
+        entries.add(ModBlocks.ONION_GEM_PRESSURE_PLATE);
+        entries.add(ModBlocks.ONION_GEM_FENCE);
+        entries.add(ModBlocks.ONION_GEM_FENCE_GATE);
+        entries.add(ModBlocks.ONION_GEM_WALL);
+        entries.add(ModBlocks.ONION_GEM_DOOR);
+        entries.add(ModBlocks.ONION_GEM_TRAPDOOR);
+        entries.add(ModBlocks.FACE_BLOCK);
+
     }
 
     public static void registerItemGroups() {

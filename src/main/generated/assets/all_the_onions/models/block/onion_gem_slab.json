@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "all_the_onions:block/onion_gem_block",
+    "side": "all_the_onions:block/onion_gem_block",
+    "top": "all_the_onions:block/onion_gem_block"
+  }
+}

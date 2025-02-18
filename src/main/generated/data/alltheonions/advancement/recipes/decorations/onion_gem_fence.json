@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_onion_gem": {
+      "conditions": {
+        "items": [
+          {
+            "items": "all_the_onions:onion_gem"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "all_the_onions:onion_gem_fence"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_onion_gem"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "all_the_onions:onion_gem_fence"
+    ]
+  }
+}

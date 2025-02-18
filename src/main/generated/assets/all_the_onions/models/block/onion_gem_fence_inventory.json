@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "all_the_onions:block/onion_gem_block"
+  }
+}

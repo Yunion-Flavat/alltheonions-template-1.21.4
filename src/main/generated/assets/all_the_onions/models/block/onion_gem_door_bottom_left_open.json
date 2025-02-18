@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "all_the_onions:block/onion_gem_door_bottom",
+    "top": "all_the_onions:block/onion_gem_door_top"
+  }
+}

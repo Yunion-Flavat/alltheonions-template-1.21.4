@@ -1,0 +1,7 @@
+// 1.21.4	-999999999-01-01T00:00:00	AllTheOnions/Tags for minecraft:block
+f114d92033bdb0bc8c3c66a09e9e1484ca230025 data/minecraft/tags/block/fence_gates.json
+7f3cdfa05909a7b7040af9b920142a454b765c91 data/minecraft/tags/block/fences.json
+681833dc2635546cbd6e685e25b93115985e6270 data/minecraft/tags/block/mineable/axe.json
+60a012c5d1891d596053666f5e886ac07070f34f data/minecraft/tags/block/mineable/pickaxe.json
+6ed625f2fe2e38f51b95677f6b7aec067d7a6f76 data/minecraft/tags/block/needs_iron_tool.json
+334a376bfd1b3dee96e241b73b557f5f85b57751 data/minecraft/tags/block/walls.json

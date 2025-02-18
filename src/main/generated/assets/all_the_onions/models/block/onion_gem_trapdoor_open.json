@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_open",
+  "textures": {
+    "texture": "all_the_onions:block/onion_gem_trapdoor"
+  }
+}

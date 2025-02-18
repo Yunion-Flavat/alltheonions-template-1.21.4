@@ -2,13 +2,30 @@
   "item.all_the_onions.onion_gem": "Gem onion",
   "item.all_the_onions.onion_gem_cut": "Cut gem onion",
   "item.all_the_onions.tuning_fork": "Tuning fork",
+  "item.all_the_onions.regular_onion": "Onion",
+  "item.all_the_onions.charcoal_onion": "Charcoal Onion",
 
   "block.all_the_onions.onion_gem_block": "Gem Onion Block",
   "block.all_the_onions.onion_gem_ore": "Gem Onion Ore",
   "block.all_the_onions.onion_gem_deepslate_ore": "Gem Onion Deepslate Ore",
   "block.all_the_onions.crate": "Crate",
   "block.all_the_onions.tuner_block": "Tuner block",
+  "block.all_the_onions.face_block": "Face block",
+
+  "block.all_the_onions.onion_gem_stairs": "Gem Onion Stairs",
+  "block.all_the_onions.onion_gem_slab": "Gem Onion Slab",
+  "block.all_the_onions.onion_gem_wall": "Gem Onion Wall",
+  "block.all_the_onions.onion_gem_fence": "Gem Onion Fence",
+  "block.all_the_onions.onion_gem_fence_gate": "Gem Onion Fence Gate",
+  "block.all_the_onions.onion_gem_button": "Gem Onion Button",
+  "block.all_the_onions.onion_gem_pressure_plate": "Gem Onion Pressure Plate",
+  "block.all_the_onions.onion_gem_door": "Gem Onion Door",
+  "block.all_the_onions.onion_gem_trapdoor": "Gem Onion Trapdoor",
 
   "itemgroup.all_the_onions.all_the_onions_items": "All The Onions Items",
-  "itemgroup.all_the_onions.all_the_onions_blocks": "All The Onions Blocks"
+  "itemgroup.all_the_onions.all_the_onions_blocks": "All The Onions Blocks",
+
+  "tooltip.all_the_onions.tuner_block.tooltip": "This block §5transforms§r certain things",
+  "tooltip.all_the_onions.tuning_fork.shift_down": "This block §5transforms§r certain blocks on right click",
+  "tooltip.all_the_onions.tuning_fork": "Pres §e§lShift§r for info"
 }

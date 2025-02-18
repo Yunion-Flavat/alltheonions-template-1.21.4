@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "all_the_onions:onion_gem"
+  ],
+  "result": {
+    "count": 1,
+    "id": "all_the_onions:onion_gem_button"
+  }
+}

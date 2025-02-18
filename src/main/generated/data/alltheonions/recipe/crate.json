@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": "minecraft:stick",
+    "W": "#minecraft:planks"
+  },
+  "pattern": [
+    "WSW",
+    "S S",
+    "WSW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "all_the_onions:crate"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "group": "onion_gem",
+  "ingredient": "all_the_onions:onion_gem_ore",
+  "result": {
+    "id": "all_the_onions:onion_gem"
+  }
+}
